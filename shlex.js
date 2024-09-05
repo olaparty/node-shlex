@@ -24,7 +24,7 @@ class Shlexer {
      * protect each other as in the shell.) By default, includes ASCII single
      * and double quotes.
      */
-    this.quotes = `'"`
+    this.quotes = `'"\``
 
     /**
      * Characters that will be considered as escape. Just `\` by default.
