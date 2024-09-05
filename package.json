@@ -23,6 +23,7 @@
   "bugs": {
     "url": "https://github.com/rgov/node-shlex/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/rgov/node-shlex#readme",
   "devDependencies": {
     "chai": "^4.3.4",
